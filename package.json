@@ -71,7 +71,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "debounce": "^2.0.0",
+    "debounce": "^2.2.0",
     "semver": "^7.3.2",
     "tmp": "^0.2.1",
     "vsce": "^2.15.0"
